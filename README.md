@@ -1,3 +1,8 @@
+<h1>Foydalanuvchilar bilan real vaqt rejimida muloqot qila oladigan zamonaviy chatbot loyihasi.</h1>
+
+
+
+
 <a href="https://chatbot.ai-sdk.dev/demo">
   <img alt="Chatbot" src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chatbot</h1>
